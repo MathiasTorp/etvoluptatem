@@ -1,0 +1,23 @@
+{
+  "name": "etvoluptatem",
+  "version": "1.0.0",
+  "description": "resouce loader",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MathiasTorp/etvoluptatem.git"
+  },
+  "keywords": [
+    "voluptatem",
+    "fis3",
+    "optio"
+  ],
+  "author": "BernitaMoen",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/MathiasTorp/etvoluptatem.git/issues"
+  },
+  "dependencies": {
+    "fis3-preprocessor-css2js": "^0.1.2"
+  }
+}
